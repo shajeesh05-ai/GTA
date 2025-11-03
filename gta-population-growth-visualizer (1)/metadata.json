@@ -1,0 +1,5 @@
+
+{
+  "name": "GTA Population Growth Visualizer",
+  "description": "A web application that visualizes the population growth of the Greater Toronto Area (GTA) and provides AI-powered analysis using the Gemini API."
+}
